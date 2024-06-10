@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1076268596802",
+    "project_id": "crudnoteapp-97056",
+    "storage_bucket": "crudnoteapp-97056.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076268596802:android:fa15011108d79ad79eb7db",
+        "android_client_info": {
+          "package_name": "com.example.noteapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiFVt_e1g42fBEuNVAX5mDwG_Cog677sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
